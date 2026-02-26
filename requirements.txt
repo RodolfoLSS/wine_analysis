@@ -203,7 +203,7 @@ nbconvert==6.5.1
 nbformat==5.0.4
 networkx==2.4
 nibabel==2.3.3
-nltk==3.6.6
+nltk==3.9.2
 notebook==6.4.12
 np-utils==0.5.12.1
 numba==0.47.0
